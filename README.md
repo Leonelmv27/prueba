@@ -4,7 +4,7 @@ ejemplo de como  subir un archivo el[git de git  y git hub](https://platzi.com/c
 > -niñita
  
 # #En  este curso vemos  todo :
-*Todos los comandos  de git.
+*Todos los comandos d de git.
 *El  flujo de trabajo en  Github
 *El  verdadero amor  por  las  buenas practicas 
 *Trucos muy locos del profesor
