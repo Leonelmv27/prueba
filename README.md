@@ -9,5 +9,6 @@ ejemplo de como  subir un archivo el[git de git  y git hub](https://platzi.com/c
 *El  verdadero amor  por  las  buenas practicas 
 *Trucos muy locos del profesor
 *Las  personalidades multiples de Freddy
+*Creado por el increible platzi team
 
 Y como recordatorio: **Este readme.md es un chiste**.Diseñado para el ejemplo.Si llegas aca No lo tomes en  serio y mejor ve ["a ver el curso"](https://platzi.com/cursos/git-github/ "a ver el curso" ).
